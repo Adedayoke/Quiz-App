@@ -1,0 +1,262 @@
+1
+The inner diameter of a test tube can be measured accurately using a?
+
+A. micrometer screw guage
+B. pair of dividers
+C. metre rule
+D. pair of vernier calipers
+Answer: pair of vernier calipers
+
+2
+Two bodies have masses in the ratio 3:1. They experience forces which impart to them acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced.
+
+A. 1 : 4
+B. 2 : 1
+C. 2 : 3
+D. 2 : 5
+Answer:2 : 3
+
+3
+Particles of mass 10−2kg is fixed to the tip of a fan blade which rotates with angular velocity of 100rad-1. If the radius of the blade is 0.2m, the centripetal force is
+
+A. 2 N
+B. 20 N
+C. 200 N
+D. 400 N
+Answer: 20 N
+
+4
+A lead bullet of mass 0.05kg is fired with a velocity of 200ms−1 into a lead block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is
+
+A. 50 J
+B. 100 J
+C. 150 J
+D. 200 J
+Answer:50 J
+
+5
+A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms-1 from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is
+
+(take g = 10ms-2)
+
+A. 5 J
+B. 10 J
+C. 15 J
+D. 20 J
+Answer:15 J
+
+6
+A car of mass 800kg attains a speed of 25m/s in 20 secs. The power developed in the engine is
+
+A. 1 . 25 x 104 W
+B. 2 . 50 x 104 W
+C. 1 . 25 x 106 W
+D. 2 . 50 x 106 W
+Answer:2 . 50 x 104 W
+
+7
+When the brakes in a car are applied, the frictional force force on the tyres is
+A. is a disadvantage because it is in the direction of the motion of the car
+B. is a disadvantage because it is in the opposite direction of the motion of the car
+C. is an advantage because it is in the direction of the motion of the car
+D. is an advantage because it is in the opposite direction of the motion of the car
+Answer:is an advantage because it is in the opposite direction of the motion of the car
+
+8
+If the stress on a wire is 107NM-2 and the wire is stretched from its original length of 10.00 cm to 10.05 cm. The young's modulus of the wire is
+A. 5 . 0 x 104 Nm-2
+B. 5 . 0 x 105 Nm-2
+C. 2 . 0 x 108 Nm-2
+D. 2 . 0 x 109 Nm-2
+Answer:2 . 0 x 109 Nm-2
+
+9
+A solid weigh 10 .00 N in air, 6 N when fully immersed in water and 7 . 0 N when fully immersed in a liquid X. Calculate the relative density of the liquid, X.
+A. 5/3
+B. 4/3
+C. 3/4
+D. 7/10
+Answer:3/4
+
+10
+When temperature of a liquid increases, its surface tension
+A. Decreases
+B. Increases
+C. Remain Constant
+D. Increases then decreases
+Answer: Decreases
+
+11
+A gas at a volume of V0 in a container at pressure P0 is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant?
+
+A. P0/5
+B. 4P0/5
+C. P0
+D. 5P0
+Answer: 5P0
+
+12
+A piece of substance of specific head capacity 450JKg-1K-1 falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms-2]
+A. 2/9°C
+B. 4/9°C
+C. 9/4°C
+D. 9/2°C
+Answer:4/9°C
+
+13
+I. A liquid boils when its saturated vapour pressure is equal to the external pressure
+II. Dissolved substances in pure water lead to increase in the boiling point.
+III. When the external pressure is increased, the boiling point increases.
+IV. Dissolved substances in pure water decrease the boiling point.
+
+Which combination of the above are peculiarities of the boiling point of a liquid?
+A. I, II and III
+B. I, II, III and IV
+C. I, II and IV
+D. II, III and IV
+Answer:I, II and III
+
+14
+The temperature gradient across a copper rod of thickness 0.02m, maintained at two temperature junctions of 20°C and 80°C respectively is
+A. 3.0 x 102Km-1
+B. 3.0 x 103Km-1
+C. 5.0 x 103Km-1
+D. 3.0 x 104Km-1
+Answer:3.0 x 103Km-1
+
+15
+Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss;
+Specific heat capacity of copper = 400JKg-1K-1
+Latent heat of fusion of ice = 3.3 x 105JKg-1
+A. 8/33kg
+B. 33/80kg
+C. 80/33kg
+D. 33/8kg
+Answer: 8/33kg
+
+16
+The equation of a wave traveling along the positive x-direction is given by;
+y = 0.25 x 10−3 sin (500t - 0.025x).
+Determine the angular frequency of the wave motion.
+
+A. 0.25 x 10-3rad s-1
+B. 0.25 x 10-1rad s-1
+C. 5.00 x 102rad s-1
+D. 2.50 x 103rad s-1
+Answer: 5.00 x 102rad s-1
+
+17
+If a sound wave goes from a cold air region to a hot air region, its wavelength will
+A. increase
+B. decrease
+C. decrease then increase
+D. remain constant
+Answer:decrease
+
+18
+The lowest note emitted by a stretched string has a frequency of 40Hz. How many overtones are there between 40hz and 180Hz?
+A. 4
+B. 3
+C. 2
+D. 1
+Answer:3
+
+19
+A man stands 4m in front of a plane mirror. If the mirror is moved 1m towards the man, the distance between him and his new image is
+A. 3m
+B. 5m
+C. 6m
+D. 10m
+Answer:6m
+
+20
+The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a
+A. concave mirror of focal length 5cm
+B. concave mirror of focal length 10cm
+C. convex mirror of focal length 5cm
+D. convex mirror of focal length 20cm
+Answer:concave mirror of focal length 5cm
+
+21
+The velocities of light in air and glass are 3.0 x 108ms-1 and 2.0 x 108ms-1 respectively. If the angle of refraction is 30°, the sine of the angle of incidence is
+A. 0.33
+B. 0.50
+C. 0.67
+D. 0.75
+Answer:0.75
+
+22
+An astronomical telescope is said to be in normal adjustment when the
+A. eye is accommodated
+B. focal length of objective lens is longer than that of eye piece
+C. final image is at the near point of eye
+D. final image is at infinity
+Answer: final image is at infinity
+
+
+23
+Which of the following electromagnetic waves is least energetic?
+A. Infra-red rays
+B. X-rays
+C. Ultra-violet rays
+D. Gamma rays
+Answer:Infra-red rays
+
+24
+Steel is more suitable for permanent magnet than iron because the former
+A. is easily demagnetized by shaing vigorously
+B. is an alloy of many metals
+C. is easily magnetized by alternating current through one cycle
+D. retains magnetism more than iron
+Answer:retains magnetism more than iron
+
+25
+Four cells each of e.m.f 1.5V and internal resistance of 4Ω are connected in parallel. What is the effective e.m.f. and internal resistance of the combination?
+
+A. 6.0V, 16Ω
+B. 6.0V, 1Ω
+C. 1.5V, 4Ω
+D. 1.5V, 1Ω
+Answer:1.5V, 1Ω
+
+26
+A 3000W electric cooker is to be used on a 200V mains circuit. Which of the fuses below can be used safely with the cooker?
+
+A. 2A
+B. 5A
+C. 10A
+D. 20A
+Answer: 20A
+
+27
+A galvanometer has a resistance of 5Ω. By using a shunt wire of resistance 0.05Ω, the galvanometer could be converted to an ammeter capable of reading 2Amp. What is the current through the galvanometer?
+A. 2mA
+B. 10mA
+C. 20mA
+D. 25mA
+Answer:20mA
+
+28
+In fleming's right-hand rule, the thumb, the forefinger and the middle finger if held mutually at right angles represent respectively, the
+A. motion, the field and the induced current
+B. induced current, the motion and the field
+C. field, the induced current and the motion
+D. induced current, the field and the motio
+Answer: motion, the field and the induced current
+
+29
+At what frequency would a 10H inductor have a reactance of 2000Ω?
+A. π/200Hz
+B. π/100Hz
+C. 100/πHz
+D. 100πHz
+Answer:100/πHz
+
+30
+The core of an efficient transformer should consist of laminated pieces of metal in order to
+A. increase the heat produced by increasing the eddy current
+B. increase the heat produced by reducing the eddy current
+C. reduce the heat produced by increasing the eddy current
+D. reduce the heat produced by reducing the eddy current
+
+Answer:reduce the heat produced by reducing the eddy current

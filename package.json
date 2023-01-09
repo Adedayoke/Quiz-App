@@ -1,0 +1,14 @@
+{
+  "name": "page",
+  "version": "1.0.0",
+  "description": "Landing Page of Quiz Project",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass Webfiles/index.scss  Webfiles/index.css -w"
+  },
+  "author": "Habeeb",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
